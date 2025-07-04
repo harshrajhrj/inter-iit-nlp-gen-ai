@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+Task One/data
+Task One/Week1.pdf
+
+Task Two/sherlock
+Task Two/lstm_sherlock_model.pth
+Task Two/Week2.pdf
+Task Two/24AI06014_Task_2.zip
+
+Task Three/task_one_copy.ipynb
