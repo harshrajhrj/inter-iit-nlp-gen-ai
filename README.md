@@ -1,1 +1,0 @@
-# inter-iit-tech
